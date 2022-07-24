@@ -358,3 +358,18 @@ hr#hr {
     opacity: 0.5;
     margin-bottom: 20px;
 }
+.icons {
+    color: white;
+    width: 176px;
+    margin: 0 auto;
+    padding-bottom: 17px;
+}
+
+
+i.fa-brands.fa-facebook {
+    padding-right: 18px;
+}
+
+i.fa-brands.fa-facebook-messenger {
+    padding-right: 18px;
+}
